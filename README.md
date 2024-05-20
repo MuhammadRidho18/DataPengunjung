@@ -21,4 +21,13 @@ DataPengunjung adalah aplikasi sederhana untuk mengelola data pengunjung. Aplika
 
 ## Instalasi
 
-1. Klon repositori ini ke mesin lokal Anda:
+1. Klon repositori ke lokal:
+2. git clone https://github.com/[username]/DataPengunjung.git
+3. Instal dependensi yang diperluin:
+4. Konfigurasi database dan variabel yang diperluin.
+5. Jalankan server frontend dan backend:
+6. 6. Akses aplikasi di `http://localhost:3000` (atau URL yang sesuai dengan konfigurasi Anda).
+
+## Kontak
+
+- Email: [mykaiser330@gmail.com]
